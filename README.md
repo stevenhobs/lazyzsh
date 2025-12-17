@@ -19,7 +19,7 @@ lazyzsh 的目录为 `~/.lazyzsh/`
 
 ```
 #克隆代码
-git clone --depth 1 "https://github.com/stevenhobs/lazyzsh ~/.lazyzsh"
+git clone --depth 1 "https://github.com/stevenhobs/lazyzsh" ~/.lazyzsh
 
 #镜像站克隆代码（如果克隆失败）
 git clone --depth 1 "https://ghfast.top/https://github.com/stevenhobs/lazyzsh" ~/.lazyzsh
