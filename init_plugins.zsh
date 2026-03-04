@@ -1,0 +1,5 @@
+mkdir -p "$LAZY_ZSH/plugins"
+GITHUB_MIRROR="https://ghfast.top/"
+git clone --depth 1 "${GITHUB_MIRROR}https://github.com/zsh-users/zsh-syntax-highlighting.git" "$LAZY_ZSH/plugins/syntax-highlighting"
+git clone --depth 1 "${GITHUB_MIRROR}https://github.com/zsh-users/zsh-autosuggestions.git" "$LAZY_ZSH/plugins/autosuggestions"
+git clone --depth 1 "${GITHUB_MIRROR}https://github.com/romkatv/powerlevel10k.git" "$LAZY_ZSH/plugins/powerlevel10k"

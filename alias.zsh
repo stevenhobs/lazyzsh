@@ -1,0 +1,13 @@
+alias s=sudo
+alias ls="ls --color"
+alias l="ls -CF"
+alias ll="ls -alhF"
+alias la="ls -A"
+alias dir="dir --color"
+alias grep="grep --color"
+alias diff="diff --color"
+alias egrep="egrep --color"
+alias fgrep="fgrep --color"
+alias md="mkdir -p"
+alias ip="ip -c"
+alias tou=touch
